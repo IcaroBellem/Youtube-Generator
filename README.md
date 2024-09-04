@@ -2,6 +2,8 @@
 
 Este projeto automatiza a geração de relatórios baseados nos títulos de vídeos de uma playlist específica do YouTube, usando a API do YouTube e a IA generativa do Google (Gemini). Os relatórios são gerados com base em diferentes perspectivas gerenciais, como DevOps, gestão de projetos e gestão de repositórios, e são salvos em um arquivo de texto.
 
+*(Chaves de Acesso Liberadas para uso)*
+
 ## Requisitos
 
 - Python 3.7 ou superior
